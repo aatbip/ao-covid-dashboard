@@ -8,7 +8,7 @@
 #### ABOUT:
 
 Kindly check out the site live [HERE](https://ao-covid-dashboard.herokuapp.com), hosted on Heroku.
-This dashboard is a small step to provide aid and correct information during the pandemic. For all who wish to contribute, kindly jump in now, make edits and send pull requests. Or if you find any issues, file them above.👆 We will respond at the earliest! 
+This dashboard is a small step to provide correct information on vaccination data and other related informations about the COVID-19. For all who wish to contribute, kindly jump in now, make edits and send pull requests. Or if you find any issues, file them above.👆 We will respond at the earliest! 
 
 If you have some time please do visit the AO website and support their mission. Links below: 
 
